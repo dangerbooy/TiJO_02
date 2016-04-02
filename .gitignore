@@ -1,1 +1,4 @@
 .idea/
+tmp.txt
+!app/mix/user/*.txt
+app/**/*.js
